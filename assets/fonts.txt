@@ -1,0 +1,35 @@
+
+
+
+This article is about the Central and South American mammal. For the cardinal sin, see Sloth (deadly sin). For other uses, see Sloth (disambiguation).
+Sloths[1]
+Temporal range: Early Oligocene to Holocene
+
+Brown-throated sloth
+(Bradypus variegatus)
+Gatun Lake, Republic of Panama
+Scientific classification 
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Pilosa
+Suborder:
+Folivora
+Delsuc, Catzeflis, Stanhope, and Douzery, 2001
+Families
+Bradypodidae
+Megalonychidae
+†Megatheriidae
+†Mylodontidae
+†Nothrotheriidae
+Sloths are mammals classified in the families Megalonychidae (two-toed sloths) and Bradypodidae (three-toed sloths). There are six extant species of sloths. They are named after the capital sin of sloth because they seem slow and lazy at first glance; however, their usual idleness is due to metabolic adaptations for conserving energy. Aside from their surprising bursts of speed during emergency flights from predators, other notable traits of sloths include their strong body, ability to swim and host symbiotic algae on their fur.
+They are classified in the order Pilosa with anteaters, which sport a similar set of specialized claws. Extinct sloth species include many megafaunal ground sloths, some of which attained the size of elephants, as well as a few species of marine sloths. Extant sloths are medium-sized arboreal (tree-dwelling) residents of the jungles of Central and South America.
+Sloths make very good habitats for other organisms, and a single sloth may be home to several species of moths, beetles, cockroaches, fungi, ciliates, and algae.
+copy con fonts.txt
+dir
+cd..
+cls
